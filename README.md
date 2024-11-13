@@ -14,3 +14,10 @@ $ sudo dpkg -i package_name.deb
 ```
 $ sudo tar -xvf package_name.tar.xz
 ```
+
+# OnionShare
+> kali-linux ``secure tor file share install``
+```
+$ sudo apt install onionshare
+$ onionshare
+```

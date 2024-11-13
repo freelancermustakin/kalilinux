@@ -14,10 +14,16 @@ $ sudo dpkg -i package_name.deb
 ```
 $ sudo tar -xvf package_name.tar.xz
 ```
-
 # OnionShare
 > kali-linux ``secure tor file share install``
 ```
 $ sudo apt install onionshare
 $ onionshare
+```
+
+# TorBrowser
+> kali-linux ``tor-browser install``
+```
+$ sudo apt install -y tor torbrowser-launcher
+$ torbrowser-launcher
 ```

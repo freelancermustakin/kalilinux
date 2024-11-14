@@ -10,9 +10,10 @@ $ sudo apt update && sudo apt upgrade -y && sudo apt full-upgrade -y
 ```
 $ sudo dpkg -i package_name.deb
 ```
-> kali-linux ``.tar.xz softwaer install``
+> kali-linux ``.tar.xz && .tar.gz softwaer install``
 ```
 $ sudo tar -xvf package_name.tar.xz
+$ tar -xvzf package_name.tar.gz
 ```
 # OnionShare
 > kali-linux ``secure tor file share install``

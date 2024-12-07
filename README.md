@@ -18,6 +18,12 @@ $ sudo tar -xvf package_name.tar.xz
 ```
 $ tar -xvzf package_name.tar.gz
 ```
+# Custom Linux
+> kali-linux ``plank install``
+```
+$ sudo apt install plank
+$ plank
+```
 # OnionShare
 > kali-linux ``secure tor file share install``
 ```
